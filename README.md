@@ -5,3 +5,7 @@
 - JS folder
 - main.js
 - Assignment.js
+- Project2_functions folder
+- index
+- JS folder
+- main.js
