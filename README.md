@@ -9,3 +9,6 @@
 - index
 - JS folder
 - main.js
+- Project3_math_operators folder
+- index
+- JS folder > main.js
