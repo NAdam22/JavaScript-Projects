@@ -12,6 +12,9 @@
 - Project3_math_operators folder
 - index
 - JS folder > main.js
+- Project4_dictionaries folder
+- index
+- JS folder > main.js
 - Project5_comparisons_type_coercion folder
 - index
 - JS folder > main.js
