@@ -21,3 +21,6 @@
 - Project6_ternary__operators_constructors folder
 - index
 - JS folder > main.js
+- Project7_scope_time_function folder
+- index
+- JS folder > main.js
