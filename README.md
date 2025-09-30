@@ -18,3 +18,6 @@
 - Project5_comparisons_type_coercion folder
 - index
 - JS folder > main.js
+- Project6_ternary__operators_constructors folder
+- index
+- JS folder > main.js
