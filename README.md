@@ -24,3 +24,6 @@
 - Project7_scope_time_function folder
 - index
 - JS folder > main.js
+- Project8_string_methods folder
+- index
+- JS > main.js
