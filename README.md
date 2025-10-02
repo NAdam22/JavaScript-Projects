@@ -31,3 +31,6 @@
 - index
 - JS folder > main.js
 - CSS folder > main.css
+- Project10_loops_arrays folder
+- index
+- JS > main.js
