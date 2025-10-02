@@ -27,3 +27,7 @@
 - Project8_string_methods folder
 - index
 - JS > main.js
+- Project9_countdown_slideshow folder
+- index
+- JS folder > main.js
+- CSS folder > main.css
